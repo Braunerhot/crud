@@ -21,6 +21,9 @@
 			<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
+		<style type="text/css">
+			.margin-button15 { margin-bottom: 15px; }
+		</style>
 	</head>
 
 	<body>
@@ -29,6 +32,8 @@
 
 			<div class="row">
 				<h1>Lista de Produtos</h1>
+
+				<a href="produtos/add" class="btn btn-success margin-button15">Novo Produto</a>
 
 				<table class="table table-bordered">
 					
